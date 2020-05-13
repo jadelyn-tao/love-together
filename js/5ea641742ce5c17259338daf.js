@@ -9710,7 +9710,7 @@ Mugeda.data.id_5ea641742ce5c17259338daf = {
                         fF: 'Simhei',
                         tA: 'right',
                         textVAlign: 'top',
-                        tC: '长按识别二维码%0A生成你的喜巢版生肖全家福%0A',
+                        tC: '长按识别二维码%0A生成你的喜巢版全家福%0A',
                         tD: '',
                         rX: 71,
                         rY: 19,
